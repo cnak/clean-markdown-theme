@@ -1,4 +1,4 @@
-# markdown-theme
+# clean-markdown-theme
 A clean css theme to be used with markdown files. 
 
 This theme is included in [Markdown Preview](https://github.com/borismus/markdown-preview) for Chrome plugin as one of the available themes.
