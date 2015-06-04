@@ -7,6 +7,10 @@ This theme is included in [Markdown Preview](https://github.com/borismus/markdow
 
 Can be used with [MacDown](https://github.com/uranusjr/macdown) app. Simply place the cleanTheme.css file in MacDown's style directory.
 
+## Screenshot
+![fileurls](http://i.imgur.com/A1E4vUe.png)
+
+
 ## Thanks 
 
 Thanks to Kevin Burke for his [markdown-friendly stylesheet][style]
